@@ -1,5 +1,5 @@
 ---
-title: Introduction to Istio and installation process
+title: Introduction to Istio and installation process TESTINGG
 
 ---
 <!--Installation of Istio in the cluster-->
@@ -50,7 +50,7 @@ Now label the namespace so that the control plane can perform Istio injection in
 
 {{ execute }}
 ```
-kubectl label namespace default istio-injection=enabled
+kubectl label namespace default istio-injection=enabled TESTING
 ```
 {{ /execute }}
 
