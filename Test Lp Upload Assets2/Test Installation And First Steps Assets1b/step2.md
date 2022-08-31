@@ -1,5 +1,5 @@
 ---
-title: Introduction to Istio and installation process TESTINGG
+title: Introduction to Istio and installation process 
 
 ---
 <!--Installation of Istio in the cluster-->
