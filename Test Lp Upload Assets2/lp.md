@@ -6,7 +6,7 @@ isAvailable: true
 isNew: true
 isPremium: true
 license: Apache
-scenarioCount: 2
+scenarioCount: 1
 scenarios:
   - Test Installation And First Steps Assets1a
 title: Test Lp Upload Assets2
